@@ -43,3 +43,5 @@ between the number of sent and received messages in the running period.
 • Also plot the number of blocked messages as function of average value of Tsender.
 • Show also graphs for the high and low priority sender tasks.
 Use a queue of size 3, then repeat for a queue of size 10. What happens when queue size increases?
+You need to think of how to generate random numbers efficiently or if you will use C run-time library for the
+rand function for example.
