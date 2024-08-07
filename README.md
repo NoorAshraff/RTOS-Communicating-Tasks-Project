@@ -1,5 +1,5 @@
-# RTOS-Communicating-Tasks-Project
-## Project Specifications
+# RTOS Communicating Tasks Project
+## Project Specifications:
 #### The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT
 Embedded.
 #### Four tasks communicate via a queue of fixed size as described below:
